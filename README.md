@@ -1,0 +1,2 @@
+# Library-Management-System
+The ‘Library Management System’ is a framework that jars the records about the books present in the library, including the information about their writers, the individuals from the library to whom books are issued, library staff, etc. This undeniably is a challenge to maintain physically in papers. The ‘system’ aims to modernize and simplify the tasks performed over the library data. The computerization of the library data shall help in its upkeep and will reduce the hassles associated with conventional record-keeping in the libraries.
